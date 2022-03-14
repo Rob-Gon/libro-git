@@ -2,4 +2,4 @@ Capítulo 1: Introducción a Git
 Capítulo 2: Flujo de trabajo básico
 Capítulo 3: Gestión de ramas
 Capítulo 4: Repositorios remotos
-Cap 5
+En este capítulo veremos cómo usar GitHub para alojar repositorios en remoto.
